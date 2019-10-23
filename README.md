@@ -47,4 +47,4 @@ Github: jayXtownhz
 <h3>整理项目管理知识体系结构</h3>
 
     有兴趣的朋友可以参考
-    https://github.com/jayXtownhz/PMP
+    <a href = "https://github.com/jayXtownhz/PMP">https://github.com/jayXtownhz/PMP</a>
